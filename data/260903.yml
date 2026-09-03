@@ -1,17 +1,19 @@
 about:
-  description: NixOS system deployment TUI
+  description:
+  |
+    NixOS system deployment TUI
   license: MIT
   homepage: 
   head: 2630c9b
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-03T05:09:55Z
+  collectedAt: 2026-09-03T22:39:02Z
 timeline:
   created: 2024-06-30
   lastCommit: 2026-07-20
-  lastRelease: ?
+  lastRelease: 
 popularity:
-  star: 58
+  star: 59
   watcher: 1
   fork: 0
   release: 0
@@ -22,7 +24,7 @@ language:
   Go: 116260
   Nix: 1226
   Shell: 10
-totalLine: 117496
+totalBytes: 117496
 recent:
   last30d:
     since: 2026-08-04
