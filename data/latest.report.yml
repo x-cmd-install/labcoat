@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-09-11T04:45:08Z
+  collectedAt: 2026-09-11T20:12:28Z
 timeline:
   created: 2024-06-30
   lastCommit: 2026-07-20
@@ -85,7 +85,7 @@ total:
   commit: 108
 ---
 path: /home/runner/.x-repo/github.com/jhillyerd/labcoat
-collectedAt: 2026-09-11T04:45:09Z
+collectedAt: 2026-09-11T20:12:30Z
 loc:
   Go:
     code: 3683
