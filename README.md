@@ -4,7 +4,7 @@
 
 NixOS system deployment TUI
 
-[![x-cmd/install — labcoat Code Quality Monitoring Repo Card](https://repo.x-cmd.io/labcoat.svg)](https://x-cmd.com/install/labcoat)
+[![x-cmd/install — labcoat Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/labcoat.svg)](https://x-cmd.com/install/labcoat)
 
 ## Install
 
@@ -41,12 +41,12 @@ Total: **4,093** lines of code across **47** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 90d | 2026-06-24 | 0 | 2 | 0 | 0 | 1 | 3 |
-| last180d | 2026-03-26 | 0 | 10 | 0 | 0 | 2 | 10 |
-| 360d | 2025-09-27 | 0 | 22 | 0 | 2 | 2 | 29 |
-| last720d | 2024-10-02 | 0 | 33 | 0 | 2 | 4 | 40 |
+| 30d | 2026-08-24 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 90d | 2026-06-25 | 0 | 2 | 0 | 0 | 1 | 3 |
+| last180d | 2026-03-27 | 0 | 10 | 0 | 0 | 2 | 10 |
+| 360d | 2025-09-28 | 0 | 22 | 0 | 2 | 2 | 29 |
+| last720d | 2024-10-03 | 0 | 33 | 0 | 2 | 4 | 40 |
 
 ## Improve this data
 
@@ -57,4 +57,4 @@ Install metadata for labcoat lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:57:39Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:52:57Z._
