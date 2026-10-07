@@ -31,22 +31,22 @@ Total: **4,701** lines of code across **50** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 59 · **Forks**: 0 · **Open issues**: 6 · **Contributors**: 1
+- **Stars**: 59 · **Forks**: 0 · **Open issues**: 6 · **Contributors**: 2
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 45 · **Open PRs**: 0 · **Closed issues**: 4 · **Open issues**: 2 · **Commits**: 110
+- **Releases**: 0 · **Merged PRs**: 46 · **Open PRs**: 0 · **Closed issues**: 4 · **Open issues**: 2 · **Commits**: 111
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 0 | 2 | 0 | 0 | 0 | 2 |
-| last60d | 2026-08-07 | 0 | 2 | 0 | 1 | 0 | 2 |
-| 90d | 2026-07-08 | 0 | 4 | 0 | 1 | 0 | 5 |
-| last180d | 2026-04-09 | 0 | 11 | 0 | 1 | 1 | 12 |
-| 360d | 2025-10-11 | 0 | 21 | 0 | 2 | 1 | 28 |
-| last720d | 2024-10-16 | 0 | 34 | 0 | 4 | 2 | 41 |
+| 30d | 2026-09-07 | 0 | 3 | 0 | 0 | 0 | 3 |
+| last60d | 2026-08-08 | 0 | 3 | 0 | 1 | 0 | 3 |
+| 90d | 2026-07-09 | 0 | 5 | 0 | 1 | 0 | 6 |
+| last180d | 2026-04-10 | 0 | 12 | 0 | 1 | 1 | 13 |
+| 360d | 2025-10-12 | 0 | 22 | 0 | 2 | 1 | 29 |
+| last720d | 2024-10-17 | 0 | 35 | 0 | 4 | 2 | 42 |
 
 ## Improve this data
 
@@ -57,4 +57,4 @@ Install metadata for labcoat lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T06:30:13Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T05:59:16Z._
