@@ -41,12 +41,12 @@ Total: **4,701** lines of code across **50** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-17 | 0 | 3 | 0 | 0 | 0 | 3 |
-| last60d | 2026-08-18 | 0 | 3 | 0 | 1 | 0 | 3 |
-| 90d | 2026-07-19 | 0 | 4 | 0 | 1 | 0 | 5 |
-| last180d | 2026-04-20 | 0 | 12 | 0 | 1 | 1 | 13 |
-| 360d | 2025-10-22 | 0 | 22 | 0 | 2 | 1 | 29 |
-| last720d | 2024-10-27 | 0 | 35 | 0 | 4 | 2 | 42 |
+| 30d | 2026-09-18 | 0 | 3 | 0 | 0 | 0 | 3 |
+| last60d | 2026-08-19 | 0 | 3 | 0 | 1 | 0 | 3 |
+| 90d | 2026-07-20 | 0 | 3 | 0 | 1 | 0 | 3 |
+| last180d | 2026-04-21 | 0 | 12 | 0 | 1 | 1 | 13 |
+| 360d | 2025-10-23 | 0 | 22 | 0 | 2 | 1 | 29 |
+| last720d | 2024-10-28 | 0 | 35 | 0 | 4 | 2 | 42 |
 
 ## Improve this data
 
@@ -57,4 +57,4 @@ Install metadata for labcoat lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261017.yml` · 2026-10-17T04:21:43Z._
+_Snapshot: `data/card/261018.yml` · 2026-10-18T04:30:24Z._
